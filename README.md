@@ -1,5 +1,13 @@
-### Hi there 👋
+### <예지의 코린이 탈출 일기 👋>
 
+
+------------------------------
+
+#### SSAFY 
+
+------------------------------
+
+#### [Notion](https://www.notion.so/f6d96c134c3540bb83b71b9f5d80af22)
 <!--
 **an7188/an7188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
