@@ -9,7 +9,7 @@
 
 
 ------------------------------
-#### Coding
+#### Algorithm
 - [Beakjoon](https://github.com/an7188/Baekjoon)
 - [SW expert](https://github.com/an7188/SW-expert)
 
