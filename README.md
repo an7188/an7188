@@ -1,4 +1,4 @@
-### <예지의 코린이 탈출 일기 👋>
+### <예지의 코린이 탈출 일기 👋>Cancel changes
 
 
 ------------------------------
@@ -10,8 +10,8 @@
 
 ------------------------------
 #### Algorithm
-- [Beakjoon](https://github.com/an7188/Baekjoon)
-- [SW expert](https://github.com/an7188/SW-expert)
+- [JAVA](https://github.com/an7188/Algorithm_JAVA)
+
 
 ------------------------------
 
