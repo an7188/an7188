@@ -1,7 +1,5 @@
 <h1 align="center"> 왕초보 예코딩의 개발 일기 👋 <h1>
-
   
-
 #### SSAFY 
 > ##### SSAFY STUDTY
 - [흐누](https://github.com/Doppio1101/hnuStudy)
@@ -16,6 +14,10 @@
 
 
 #### [Notion](https://www.notion.so/f6d96c134c3540bb83b71b9f5d80af22)
+#### [Tstory](https://yeacoding.tistory.com/)
+  
+  
+  
 <!--
 **an7188/an7188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
