@@ -1,4 +1,4 @@
-<h1 align="center"> 왕초보 예코딩의 개발 일기 👋 <h1>
+<h1 align="center"> 왕 예코딩의 개발 일기 👋 <h1>
   
 #### SSAFY 
 > ##### SSAFY STUDTY
