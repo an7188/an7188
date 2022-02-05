@@ -1,4 +1,4 @@
-<h1 align="center">예지의 개발 일기🍒  <h1>
+<h1 align="center">예지의 개발 일기♥️♥️     <h1>
   
 #### SSAFY 
 > ##### SSAFY STUDTY
