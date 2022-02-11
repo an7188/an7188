@@ -6,7 +6,7 @@
 
 
 ------------------------------
-#### Algorithm
+#### Algorithm🤍
 - [JAVA](https://github.com/an7188/Algorithm_JAVA)
 - [Python](https://github.com/an7188/Algorithm_Python)
 
