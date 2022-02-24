@@ -29,7 +29,7 @@
  <br />
 
   
-  
+  [![Yeaji's github stats](https://github-readme-stats.vercel.app/api?username=an7188&count_private=true&custom_title=Yeaji's&nbsp;github🤍&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 	
  <br />
