@@ -1,4 +1,5 @@
-<h1 align="center">예지의 개발 일기  <h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yeaji&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+
   
 #### SSAFY 
 > ##### SSAFY STUDTY
@@ -16,6 +17,10 @@
 #### [Notion](https://www.notion.so/f6d96c134c3540bb83b71b9f5d80af22)
 #### [Tstory](https://yeacoding.tistory.com/)
   
+  
+  
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/an7188&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
   
 <!--
