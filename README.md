@@ -10,7 +10,7 @@
 <!--[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=]()-->
   
   
-  <h3>💻Tech Stack 💻</h3>
+  <h3>💻Tech Stack </h3>
   <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F3708C?style=flat&logo=JavaScript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-%23F3708C?style=flat&logo=CSS3&logoColor=white"/></a>
