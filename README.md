@@ -11,7 +11,7 @@
   
   
   <h3>💻Tech Stack </h3>
-  <div class="stack"> 퓨
+  <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F3708C?style=flat&logo=JavaScript&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-%23F3708C?style=flat&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-%23F3708C?style=flat&logo=Vue.js&logoColor=white"/></a>
